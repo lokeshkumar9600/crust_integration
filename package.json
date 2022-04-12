@@ -1,0 +1,17 @@
+{
+  "name": "ipfs2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@crustio/crust-pin": "^1.0.0",
+    "@socbay/crust-pin": "^0.0.5",
+    "ipfs-http-client": "^56.0.2"
+  }
+}
